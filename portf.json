@@ -1,0 +1,15 @@
+{
+  "public_name": "{{public_name}}",
+  "kicker": "{{kicker}}",
+  "url": "{{url}}",
+  "description": "{{description}}",
+  "skip": {{skip}},
+  "portfolio": {{portfolio}},
+  "card_type": "{{card_type}}",
+  "tech": [],
+  "detail_description": [],
+  "links": [
+    { "label": "live demo", "url": "#" },
+    { "label": "case study", "url": "#" }
+  ]
+}
