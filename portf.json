@@ -1,7 +1,7 @@
 {
   "public_name": "{{public_name}}",
   "kicker": "{{kicker}}",
-  "url": "{{url}}",
+  "url": "#",
   "description": "{{description}}",
   "skip": {{skip}},
   "portfolio": {{portfolio}},
